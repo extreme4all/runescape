@@ -772,7 +772,7 @@ wheels = [
 ]
 
 [[package]]
-name = "runescape"
+name = "runescape-wrapper"
 version = "0.0.0"
 source = { editable = "." }
 dependencies = [

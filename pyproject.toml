@@ -1,5 +1,5 @@
 [project]
-name = "runescape"
+name = "runescape-wrapper"
 version = "0.0.0"
 description = "The project tries to unify all runescape api's into one package"
 readme = "README.md"
