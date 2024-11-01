@@ -15,7 +15,7 @@ dependencies = [
 ]
 
 [project.scripts]
-runescape = "runescape:main"
+runescape = "runescape-wrapper:main"
 
 [build-system]
 requires = ["hatchling"]
